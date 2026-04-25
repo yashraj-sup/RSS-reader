@@ -1,0 +1,17 @@
+@import url('https://googleapis.com');
+body{
+    background-color: #0f0f0f ;
+    color: #dbb2d1;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 2 rem;
+    font-family:  'Lora',serif;
+}
+nav{
+    margin-bottom: 2 rem;
+}
+nav a{
+    margin-right: 2 rem;
+    text-decoration-color:black;
+    color:aqua;
+}
